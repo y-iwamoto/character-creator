@@ -30,3 +30,12 @@ body {
   padding: 0;
   border: 0;
 }
+
+.bottomBox {
+  position: fixed;
+  bottom: 0;
+  background-color: hsl(195deg, 20%, 86%);
+  height: 40%;
+  width: 100%;
+  
+}
